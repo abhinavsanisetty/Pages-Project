@@ -5,9 +5,9 @@
 > My name is Abhi, I am a second year CS major in ERC. In my free time I like to watch movies, watch sports, and hang out with friends. My favorite sports team is [Liverpool FC](https://www.liverpoolfc.com/).
 
 Some of my favorite shows are:
-1. Daredevil
-2. Suits
-3. White Collar
+1. **Daredevil**
+2. **Suits**
+3. **White Collar**
 
 
 Some of my favorite movies are:
